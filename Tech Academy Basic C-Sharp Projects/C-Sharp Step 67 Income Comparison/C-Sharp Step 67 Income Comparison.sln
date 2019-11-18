@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-Sharp Step 67 Income Comparison", "C-Sharp Step 67 Income Comparison\C-Sharp Step 67 Income Comparison.csproj", "{3712D34D-A4D4-4828-BB41-D7ABEB4A671E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3712D34D-A4D4-4828-BB41-D7ABEB4A671E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3712D34D-A4D4-4828-BB41-D7ABEB4A671E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3712D34D-A4D4-4828-BB41-D7ABEB4A671E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3712D34D-A4D4-4828-BB41-D7ABEB4A671E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6491EC0F-42B3-4A50-B374-9FFA8135CC66}
+	EndGlobalSection
+EndGlobal
