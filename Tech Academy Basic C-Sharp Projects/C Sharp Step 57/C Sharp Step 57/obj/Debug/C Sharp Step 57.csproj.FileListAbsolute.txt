@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C Sharp Step 57\C Sharp Step 57\obj\Debug\C Sharp Step 57.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C Sharp Step 57\C Sharp Step 57\bin\Debug\C Sharp Step 57.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C Sharp Step 57\C Sharp Step 57\bin\Debug\C Sharp Step 57.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C Sharp Step 57\C Sharp Step 57\bin\Debug\C Sharp Step 57.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C Sharp Step 57\C Sharp Step 57\obj\Debug\C Sharp Step 57.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C Sharp Step 57\C Sharp Step 57\obj\Debug\C Sharp Step 57.pdb
