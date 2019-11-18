@@ -1,0 +1,5 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 66\C-Sharp Step 66\bin\Debug\C-Sharp Step 66.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 66\C-Sharp Step 66\bin\Debug\C-Sharp Step 66.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 66\C-Sharp Step 66\bin\Debug\C-Sharp Step 66.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 66\C-Sharp Step 66\obj\Debug\C-Sharp Step 66.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 66\C-Sharp Step 66\obj\Debug\C-Sharp Step 66.pdb
