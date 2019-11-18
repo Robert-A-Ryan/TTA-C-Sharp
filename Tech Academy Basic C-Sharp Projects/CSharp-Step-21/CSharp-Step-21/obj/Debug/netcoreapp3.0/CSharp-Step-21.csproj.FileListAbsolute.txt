@@ -1,0 +1,11 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\CSharp-Step-21\CSharp-Step-21\bin\Debug\netcoreapp3.0\CSharp-Step-21.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\CSharp-Step-21\CSharp-Step-21\bin\Debug\netcoreapp3.0\CSharp-Step-21.deps.json
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\CSharp-Step-21\CSharp-Step-21\bin\Debug\netcoreapp3.0\CSharp-Step-21.runtimeconfig.json
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\CSharp-Step-21\CSharp-Step-21\bin\Debug\netcoreapp3.0\CSharp-Step-21.runtimeconfig.dev.json
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\CSharp-Step-21\CSharp-Step-21\bin\Debug\netcoreapp3.0\CSharp-Step-21.dll
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\CSharp-Step-21\CSharp-Step-21\bin\Debug\netcoreapp3.0\CSharp-Step-21.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\CSharp-Step-21\CSharp-Step-21\obj\Debug\netcoreapp3.0\CSharp-Step-21.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\CSharp-Step-21\CSharp-Step-21\obj\Debug\netcoreapp3.0\CSharp-Step-21.AssemblyInfoInputs.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\CSharp-Step-21\CSharp-Step-21\obj\Debug\netcoreapp3.0\CSharp-Step-21.AssemblyInfo.cs
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\CSharp-Step-21\CSharp-Step-21\obj\Debug\netcoreapp3.0\CSharp-Step-21.dll
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\CSharp-Step-21\CSharp-Step-21\obj\Debug\netcoreapp3.0\CSharp-Step-21.pdb

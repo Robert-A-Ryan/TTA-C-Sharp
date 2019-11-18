@@ -1,0 +1,5 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\WelcomeAAS\WelcomeAAS\bin\Debug\WelcomeAAS.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\WelcomeAAS\WelcomeAAS\bin\Debug\WelcomeAAS.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\WelcomeAAS\WelcomeAAS\bin\Debug\WelcomeAAS.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\WelcomeAAS\WelcomeAAS\obj\Debug\WelcomeAAS.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\WelcomeAAS\WelcomeAAS\obj\Debug\WelcomeAAS.pdb
