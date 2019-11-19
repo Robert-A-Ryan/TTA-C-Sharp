@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 75 - Car Insurance\C-Sharp Step 75 - Car Insurance\bin\Debug\C-Sharp Step 75 - Car Insurance.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 75 - Car Insurance\C-Sharp Step 75 - Car Insurance\bin\Debug\C-Sharp Step 75 - Car Insurance.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 75 - Car Insurance\C-Sharp Step 75 - Car Insurance\bin\Debug\C-Sharp Step 75 - Car Insurance.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 75 - Car Insurance\C-Sharp Step 75 - Car Insurance\obj\Debug\C-Sharp Step 75 - Car Insurance.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 75 - Car Insurance\C-Sharp Step 75 - Car Insurance\obj\Debug\C-Sharp Step 75 - Car Insurance.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 75 - Car Insurance\C-Sharp Step 75 - Car Insurance\obj\Debug\C-Sharp Step 75 - Car Insurance.pdb
