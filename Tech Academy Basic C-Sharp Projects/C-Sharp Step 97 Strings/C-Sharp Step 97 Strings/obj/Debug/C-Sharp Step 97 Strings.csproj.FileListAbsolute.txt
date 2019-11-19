@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 97 Strings\C-Sharp Step 97 Strings\bin\Debug\C-Sharp Step 97 Strings.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 97 Strings\C-Sharp Step 97 Strings\bin\Debug\C-Sharp Step 97 Strings.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 97 Strings\C-Sharp Step 97 Strings\bin\Debug\C-Sharp Step 97 Strings.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 97 Strings\C-Sharp Step 97 Strings\obj\Debug\C-Sharp Step 97 Strings.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 97 Strings\C-Sharp Step 97 Strings\obj\Debug\C-Sharp Step 97 Strings.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 97 Strings\C-Sharp Step 97 Strings\obj\Debug\C-Sharp Step 97 Strings.csprojAssemblyReference.cache
