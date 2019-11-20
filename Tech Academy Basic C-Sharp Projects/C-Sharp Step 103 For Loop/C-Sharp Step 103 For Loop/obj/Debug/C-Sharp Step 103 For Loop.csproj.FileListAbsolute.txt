@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 103 For Loop\C-Sharp Step 103 For Loop\bin\Debug\C-Sharp Step 103 For Loop.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 103 For Loop\C-Sharp Step 103 For Loop\bin\Debug\C-Sharp Step 103 For Loop.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 103 For Loop\C-Sharp Step 103 For Loop\bin\Debug\C-Sharp Step 103 For Loop.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 103 For Loop\C-Sharp Step 103 For Loop\obj\Debug\C-Sharp Step 103 For Loop.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 103 For Loop\C-Sharp Step 103 For Loop\obj\Debug\C-Sharp Step 103 For Loop.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 103 For Loop\C-Sharp Step 103 For Loop\obj\Debug\C-Sharp Step 103 For Loop.pdb
