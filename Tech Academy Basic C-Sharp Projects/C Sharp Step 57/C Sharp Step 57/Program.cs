@@ -7,8 +7,7 @@ namespace C_Sharp_Step_57
         static void Main()
         {
             Console.WriteLine("The Tech Academy");
-            Console.WriteLine("Student Daily Report");
-            Console.WriteLine(" ");
+            Console.WriteLine("Student Daily Report\n");
             Console.WriteLine("What course are you on?");
             string course = Console.ReadLine();
             Console.WriteLine("What page number?");
@@ -24,8 +23,7 @@ namespace C_Sharp_Step_57
             Console.WriteLine("How many hours did you study today?");
             string hoursStudy = Console.ReadLine();
             sbyte Study = Convert.ToSByte(hoursStudy);
-            Console.WriteLine(" ");
-            Console.WriteLine("Thank you for your answers. An instructor will respond to this shortly. Have a great day!");
+            Console.WriteLine("\nThank you for your answers. An instructor will respond to this shortly. Have a great day!");
             Console.ReadLine();
         }
     }
