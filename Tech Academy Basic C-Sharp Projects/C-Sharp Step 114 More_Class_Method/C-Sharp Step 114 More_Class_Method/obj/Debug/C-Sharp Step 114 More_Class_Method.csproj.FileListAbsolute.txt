@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 114 More_Class_Method\C-Sharp Step 114 More_Class_Method\obj\Debug\C-Sharp Step 114 More_Class_Method.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 114 More_Class_Method\C-Sharp Step 114 More_Class_Method\bin\Debug\C-Sharp Step 114 More_Class_Method.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 114 More_Class_Method\C-Sharp Step 114 More_Class_Method\bin\Debug\C-Sharp Step 114 More_Class_Method.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 114 More_Class_Method\C-Sharp Step 114 More_Class_Method\bin\Debug\C-Sharp Step 114 More_Class_Method.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 114 More_Class_Method\C-Sharp Step 114 More_Class_Method\obj\Debug\C-Sharp Step 114 More_Class_Method.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 114 More_Class_Method\C-Sharp Step 114 More_Class_Method\obj\Debug\C-Sharp Step 114 More_Class_Method.pdb
