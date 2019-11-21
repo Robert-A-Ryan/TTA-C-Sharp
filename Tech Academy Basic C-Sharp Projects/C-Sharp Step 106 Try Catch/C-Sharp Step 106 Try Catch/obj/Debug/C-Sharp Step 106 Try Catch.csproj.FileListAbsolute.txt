@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 106 Try Catch\C-Sharp Step 106 Try Catch\bin\Debug\C-Sharp Step 106 Try Catch.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 106 Try Catch\C-Sharp Step 106 Try Catch\bin\Debug\C-Sharp Step 106 Try Catch.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 106 Try Catch\C-Sharp Step 106 Try Catch\bin\Debug\C-Sharp Step 106 Try Catch.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 106 Try Catch\C-Sharp Step 106 Try Catch\obj\Debug\C-Sharp Step 106 Try Catch.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 106 Try Catch\C-Sharp Step 106 Try Catch\obj\Debug\C-Sharp Step 106 Try Catch.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 106 Try Catch\C-Sharp Step 106 Try Catch\obj\Debug\C-Sharp Step 106 Try Catch.csprojAssemblyReference.cache
