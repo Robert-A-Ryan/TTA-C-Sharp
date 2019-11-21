@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 111 Create Class\C-Sharp Step 111 Create Class\bin\Debug\C-Sharp Step 111 Create Class.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 111 Create Class\C-Sharp Step 111 Create Class\bin\Debug\C-Sharp Step 111 Create Class.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 111 Create Class\C-Sharp Step 111 Create Class\bin\Debug\C-Sharp Step 111 Create Class.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 111 Create Class\C-Sharp Step 111 Create Class\obj\Debug\C-Sharp Step 111 Create Class.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 111 Create Class\C-Sharp Step 111 Create Class\obj\Debug\C-Sharp Step 111 Create Class.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 111 Create Class\C-Sharp Step 111 Create Class\obj\Debug\C-Sharp Step 111 Create Class.pdb
