@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 115 Opt Parameter\C-Sharp Step 115 Opt Parameter\obj\Debug\C-Sharp Step 115 Opt Parameter.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 115 Opt Parameter\C-Sharp Step 115 Opt Parameter\bin\Debug\C-Sharp Step 115 Opt Parameter.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 115 Opt Parameter\C-Sharp Step 115 Opt Parameter\bin\Debug\C-Sharp Step 115 Opt Parameter.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 115 Opt Parameter\C-Sharp Step 115 Opt Parameter\bin\Debug\C-Sharp Step 115 Opt Parameter.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 115 Opt Parameter\C-Sharp Step 115 Opt Parameter\obj\Debug\C-Sharp Step 115 Opt Parameter.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 115 Opt Parameter\C-Sharp Step 115 Opt Parameter\obj\Debug\C-Sharp Step 115 Opt Parameter.pdb
