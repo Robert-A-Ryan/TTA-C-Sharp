@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 117 Class Method\C-Sharp Step 117 Class Method\obj\Debug\C-Sharp Step 117 Class Method.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 117 Class Method\C-Sharp Step 117 Class Method\bin\Debug\C-Sharp Step 117 Class Method.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 117 Class Method\C-Sharp Step 117 Class Method\bin\Debug\C-Sharp Step 117 Class Method.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 117 Class Method\C-Sharp Step 117 Class Method\bin\Debug\C-Sharp Step 117 Class Method.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 117 Class Method\C-Sharp Step 117 Class Method\obj\Debug\C-Sharp Step 117 Class Method.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 117 Class Method\C-Sharp Step 117 Class Method\obj\Debug\C-Sharp Step 117 Class Method.pdb
