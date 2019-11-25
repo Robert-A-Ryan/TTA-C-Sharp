@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 120 Inherit\C-Sharp Step 120 Inherit\bin\Debug\C-Sharp Step 120 Inherit.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 120 Inherit\C-Sharp Step 120 Inherit\bin\Debug\C-Sharp Step 120 Inherit.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 120 Inherit\C-Sharp Step 120 Inherit\bin\Debug\C-Sharp Step 120 Inherit.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 120 Inherit\C-Sharp Step 120 Inherit\obj\Debug\C-Sharp Step 120 Inherit.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 120 Inherit\C-Sharp Step 120 Inherit\obj\Debug\C-Sharp Step 120 Inherit.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 120 Inherit\C-Sharp Step 120 Inherit\obj\Debug\C-Sharp Step 120 Inherit.pdb
