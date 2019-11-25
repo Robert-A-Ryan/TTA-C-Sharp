@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 124 Abstract\C-Sharp Step 124 Abstract\bin\Debug\C-Sharp Step 124 Abstract.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 124 Abstract\C-Sharp Step 124 Abstract\bin\Debug\C-Sharp Step 124 Abstract.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 124 Abstract\C-Sharp Step 124 Abstract\bin\Debug\C-Sharp Step 124 Abstract.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 124 Abstract\C-Sharp Step 124 Abstract\obj\Debug\C-Sharp Step 124 Abstract.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 124 Abstract\C-Sharp Step 124 Abstract\obj\Debug\C-Sharp Step 124 Abstract.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 124 Abstract\C-Sharp Step 124 Abstract\obj\Debug\C-Sharp Step 124 Abstract.pdb
