@@ -6,25 +6,27 @@ using System.Threading.Tasks;
 
 namespace C_Sharp_Step_129_Override_Oper
 {
-    public class Employee : Person, IQuitable
+    public class Employee<T> : Person, IQuitable
     {
         public override void SayName()
         {
-            Console.WriteLine("Name: {0} {1}, ID: {2}\n", firstName, lastName, Id);
+            Console.WriteLine("\nName: {0} {1}, ID: {2}\n", FirstName, LastName, Id);
         }
 
         public int Id { get; set; }
+        public List<T> Things { get; set; }
         public void Quit()
         {
-            Console.WriteLine("{0} {1} ended their employment.\n", firstName, lastName);
+            Console.WriteLine("{0} {1} ended their employment.\n", FirstName, LastName);
         }
 
+
         // employee id comparison by overloading the == operator
-        public static bool operator ==(Employee id1, Employee id2)
+        public static bool operator ==(Employee<T> id1, Employee<T> id2)
         {
             return true;
         }
-        public static bool operator !=(Employee id1, Employee id2)
+        public static bool operator !=(Employee<T> id1, Employee<T> id2)
         {
             return false;
         }
