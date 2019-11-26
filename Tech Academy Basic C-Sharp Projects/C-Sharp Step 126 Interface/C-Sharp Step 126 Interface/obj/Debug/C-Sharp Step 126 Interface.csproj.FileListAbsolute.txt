@@ -1,0 +1,6 @@
+C:\Users\coach\source\repos\C-Sharp Step 126 Interface\C-Sharp Step 126 Interface\bin\Debug\C-Sharp Step 126 Interface.exe.config
+C:\Users\coach\source\repos\C-Sharp Step 126 Interface\C-Sharp Step 126 Interface\bin\Debug\C-Sharp Step 126 Interface.exe
+C:\Users\coach\source\repos\C-Sharp Step 126 Interface\C-Sharp Step 126 Interface\bin\Debug\C-Sharp Step 126 Interface.pdb
+C:\Users\coach\source\repos\C-Sharp Step 126 Interface\C-Sharp Step 126 Interface\obj\Debug\C-Sharp Step 126 Interface.csprojAssemblyReference.cache
+C:\Users\coach\source\repos\C-Sharp Step 126 Interface\C-Sharp Step 126 Interface\obj\Debug\C-Sharp Step 126 Interface.exe
+C:\Users\coach\source\repos\C-Sharp Step 126 Interface\C-Sharp Step 126 Interface\obj\Debug\C-Sharp Step 126 Interface.pdb
