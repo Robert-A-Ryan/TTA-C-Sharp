@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 129 Override Oper\C-Sharp Step 129 Override Oper\obj\Debug\C-Sharp Step 129 Override Oper.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 129 Override Oper\C-Sharp Step 129 Override Oper\bin\Debug\C-Sharp Step 129 Override Oper.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 129 Override Oper\C-Sharp Step 129 Override Oper\bin\Debug\C-Sharp Step 129 Override Oper.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 129 Override Oper\C-Sharp Step 129 Override Oper\bin\Debug\C-Sharp Step 129 Override Oper.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 129 Override Oper\C-Sharp Step 129 Override Oper\obj\Debug\C-Sharp Step 129 Override Oper.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 129 Override Oper\C-Sharp Step 129 Override Oper\obj\Debug\C-Sharp Step 129 Override Oper.pdb
