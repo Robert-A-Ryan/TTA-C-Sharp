@@ -25,6 +25,8 @@ namespace C_Sharp_Step_129_Override_Oper
                 Console.WriteLine("These entries are not duplicates.");
 
 
+            // Is this the polymorphism we are looking for?  When I try to use SayName() it errors stating that IQuitable doesn't have the function
+            IQuitable Emp3 = new Employee() { firstName = "Third", lastName = "Sample", Id = 4 };
 
             Console.ReadLine();
         }
