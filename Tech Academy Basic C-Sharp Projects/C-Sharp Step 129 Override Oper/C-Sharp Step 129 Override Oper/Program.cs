@@ -10,6 +10,33 @@ namespace C_Sharp_Step_129_Override_Oper
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Please enter a day of the week.");
+            string uday = Console.ReadLine();
+            uday.ToLower();
+
+            foreach (string day in Enum.GetNames(typeof(DaysOfTheWeek)))
+            {
+                //Console.WriteLine(day);
+                try
+                {
+                    if (day == uday)
+                    {
+                        Console.WriteLine("You chose {0}.", day);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Please enter an actual day.");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex);
+                }
+            }
+
+
+
+
             Employee<string> Emp1 = new Employee<string>() { FirstName = "Sample", LastName = "Student", Id = 2 };
             Emp1.Things = new List<string>() { "something", "anotherthing", "evenmorethings", "somethingdifferent" };
             Emp1.SayName();
@@ -45,5 +72,15 @@ namespace C_Sharp_Step_129_Override_Oper
 
             Console.ReadLine();
         }
+    }
+    public enum DaysOfTheWeek
+    {
+        sunday,
+        monday,
+        tuesday,
+        wednesday,
+        thursday,
+        friday,
+        saturday
     }
 }
