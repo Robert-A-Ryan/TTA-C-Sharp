@@ -10,30 +10,22 @@ namespace C_Sharp_Step_129_Override_Oper
     {
         static void Main(string[] args)
         {
+            //step 134 Parcing an Enum
             Console.WriteLine("Please enter a day of the week.");
-            string uday = Console.ReadLine();
-            uday.ToLower();
+            string uday = Console.ReadLine().ToLower();
 
-            foreach (string day in Enum.GetNames(typeof(DaysOfTheWeek)))
+            DaysOfTheWeek weekday;  //sets a variable as the enum data type
+            try
             {
-                //Console.WriteLine(day);
-                try
-                {
-                    if (day == uday)
-                    {
-                        Console.WriteLine("You chose {0}.", day);
-                    }
-                    else
-                    {
-                        Console.WriteLine("Please enter an actual day.");
-                    }
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex);
-                }
+                //checks to see if the user input matches one of the items in DaysOfTheWeek and prints line if a match
+                weekday = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), uday);
+                Console.WriteLine("You chose {0}.\n\n\n", uday);
             }
-
+            catch (Exception ex)
+            {
+                //if user input doesn't match any of DaysOfTheWeek then throws error and we print the message below to the screen.
+                Console.WriteLine("Please enter an acutal day of the week.\n\n\n");
+            }
 
 
 
