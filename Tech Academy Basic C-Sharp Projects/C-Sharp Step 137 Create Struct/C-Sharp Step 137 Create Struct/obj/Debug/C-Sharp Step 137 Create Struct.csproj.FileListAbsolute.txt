@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 137 Create Struct\C-Sharp Step 137 Create Struct\bin\Debug\C-Sharp Step 137 Create Struct.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 137 Create Struct\C-Sharp Step 137 Create Struct\bin\Debug\C-Sharp Step 137 Create Struct.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 137 Create Struct\C-Sharp Step 137 Create Struct\bin\Debug\C-Sharp Step 137 Create Struct.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 137 Create Struct\C-Sharp Step 137 Create Struct\obj\Debug\C-Sharp Step 137 Create Struct.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 137 Create Struct\C-Sharp Step 137 Create Struct\obj\Debug\C-Sharp Step 137 Create Struct.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 137 Create Struct\C-Sharp Step 137 Create Struct\obj\Debug\C-Sharp Step 137 Create Struct.pdb
