@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 140 Lambda\C-Sharp Step 140 Lambda\obj\Debug\C-Sharp Step 140 Lambda.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 140 Lambda\C-Sharp Step 140 Lambda\bin\Debug\C-Sharp Step 140 Lambda.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 140 Lambda\C-Sharp Step 140 Lambda\bin\Debug\C-Sharp Step 140 Lambda.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 140 Lambda\C-Sharp Step 140 Lambda\bin\Debug\C-Sharp Step 140 Lambda.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 140 Lambda\C-Sharp Step 140 Lambda\obj\Debug\C-Sharp Step 140 Lambda.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 140 Lambda\C-Sharp Step 140 Lambda\obj\Debug\C-Sharp Step 140 Lambda.pdb
