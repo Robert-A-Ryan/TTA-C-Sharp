@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 165 Exception\C-Sharp Step 165 Exception\obj\Debug\C-Sharp Step 165 Exception.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 165 Exception\C-Sharp Step 165 Exception\bin\Debug\C-Sharp Step 165 Exception.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 165 Exception\C-Sharp Step 165 Exception\bin\Debug\C-Sharp Step 165 Exception.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 165 Exception\C-Sharp Step 165 Exception\bin\Debug\C-Sharp Step 165 Exception.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 165 Exception\C-Sharp Step 165 Exception\obj\Debug\C-Sharp Step 165 Exception.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 165 Exception\C-Sharp Step 165 Exception\obj\Debug\C-Sharp Step 165 Exception.pdb
