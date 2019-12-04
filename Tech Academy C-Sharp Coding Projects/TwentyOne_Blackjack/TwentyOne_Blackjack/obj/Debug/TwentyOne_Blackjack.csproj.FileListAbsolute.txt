@@ -1,0 +1,9 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\TwentyOne_Blackjack\bin\Debug\TwentyOne_Blackjack.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\TwentyOne_Blackjack\bin\Debug\TwentyOne_Blackjack.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\TwentyOne_Blackjack\bin\Debug\TwentyOne_Blackjack.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\TwentyOne_Blackjack\obj\Debug\TwentyOne_Blackjack.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\TwentyOne_Blackjack\obj\Debug\TwentyOne_Blackjack.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\TwentyOne_Blackjack\obj\Debug\TwentyOne_Blackjack.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\TwentyOne_Blackjack\bin\Debug\Casino.dll
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\TwentyOne_Blackjack\bin\Debug\Casino.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\TwentyOne_Blackjack\obj\Debug\TwentyOne_Blackjack.csproj.CopyComplete
