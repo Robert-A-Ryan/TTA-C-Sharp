@@ -1,0 +1,6 @@
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 156 DateTime\C-Sharp Step 156 DateTime\obj\Debug\C-Sharp Step 156 DateTime.csprojAssemblyReference.cache
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 156 DateTime\C-Sharp Step 156 DateTime\bin\Debug\C-Sharp Step 156 DateTime.exe.config
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 156 DateTime\C-Sharp Step 156 DateTime\bin\Debug\C-Sharp Step 156 DateTime.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 156 DateTime\C-Sharp Step 156 DateTime\bin\Debug\C-Sharp Step 156 DateTime.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 156 DateTime\C-Sharp Step 156 DateTime\obj\Debug\C-Sharp Step 156 DateTime.exe
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy Basic C-Sharp Projects\C-Sharp Step 156 DateTime\C-Sharp Step 156 DateTime\obj\Debug\C-Sharp Step 156 DateTime.pdb
