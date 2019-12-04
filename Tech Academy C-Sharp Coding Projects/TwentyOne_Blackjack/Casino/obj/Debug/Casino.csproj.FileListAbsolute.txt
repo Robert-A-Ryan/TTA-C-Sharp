@@ -2,3 +2,4 @@ C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp 
 C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\Casino\bin\Debug\Casino.pdb
 C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\Casino\obj\Debug\Casino.dll
 C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\Casino\obj\Debug\Casino.pdb
+C:\Users\coach\Documents\The-Tech-Academy-Projects\C-Sharp\Tech Academy C-Sharp Coding Projects\TwentyOne_Blackjack\Casino\obj\Debug\Casino.csprojAssemblyReference.cache

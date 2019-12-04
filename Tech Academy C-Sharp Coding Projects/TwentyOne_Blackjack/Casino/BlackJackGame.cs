@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Casino.Interfaces;
+using Casino.TwentyOne_Blackjack.Interfaces;
 
-namespace Casino.BlackJack
+namespace Casino.TwentyOne_Blackjack
 {
     public class BlackJackGame : Game, IWalkAway
     {
@@ -28,7 +26,18 @@ namespace Casino.BlackJack
 
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                int bet;
+                bool corInt = int.TryParse(Console.ReadLine(), out bet) && bet > 0;
+                while (!corInt)
+                {
+                    Console.WriteLine("You didn't enter a correct amount, please try again.");
+                    corInt = int.TryParse(Console.ReadLine(), out bet);
+                    if (!corInt) Console.WriteLine("Please enter number digits only.");
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException();
+                }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {
