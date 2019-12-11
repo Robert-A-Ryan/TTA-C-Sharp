@@ -1,0 +1,22 @@
+﻿@model double
+@{
+    ViewBag.Title = "Insurance Calculation";
+
+}
+<h2>@ViewBag.Title</h2>
+<h3>@ViewBag.Message</h3>
+
+<h2>Insurance Calculation</h2>
+
+<br />
+<br />
+<div class="row no-gutters">
+    <div class="text-center">
+        <h5 class="m-3">Vehicle Rate Result</h5>
+    </div>
+    <p>
+        The monthly insurance for @ViewBag.customer.FirstName  @ViewBag.customer.LastName  driving a @ViewBag.automobile.Year  @ViewBag.automobile.Make  @ViewBag.automobile.Model  will be:
+    </p>
+    <br/>
+    <h6>$ @Model</h6>
+</div>

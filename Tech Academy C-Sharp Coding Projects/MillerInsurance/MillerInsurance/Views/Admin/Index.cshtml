@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Administration";
+}
+
+<h2>Administration</h2>
+
+<div class="row m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <h5 class="m-0">Insurance Quotes</h5>
+        <div class="card-body">
+            @foreach (var customer in Model)
+            {
+                <div class="row mb-3">
+                    <div class="col">
+                        @customer.FirstName
+                    </div>
+                    <div class="col">
+                        @customer.LastName
+                    </div>
+                    <div class="col">
+                        @customer.EmailAddress
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
