@@ -4,78 +4,115 @@
 <h2>@ViewBag.Title.</h2>
 <h3>@ViewBag.Message</h3>
 
-<br />
-<br />
-<div class="row no-gutters">
-    <div class="text-center">
-        <h5 class="m-3">Personal Information</h5>
-    </div>
-    <div class="form">
+
+<div class="container shadow">
+    <h5 class="m-3">Personal Information</h5>
+        <div class="form" role="form">
         @using (Html.BeginForm("Result", "Home", FormMethod.Post))
         {
-            <div class="row no-gutters">
-                <div class="form-group col-md-12">
-                    <label for="FirstName">First Name</label>
-                    <input name="FirstName" id="FirstName" type="text" class="form-control" placeholder="Enter Your First Name" />
-                </div>
-                <div class="form-group col-md-12">
-                    <label for="LastName">Last Name</label>
-                    <input name="LastName" id="LastName" type="text" class="form-control" placeholder="Enter Your Last Name" />
-                </div>
-                <div class="form-group col-md-12">
-                    <label for="EmailAddress">Email Address</label>
-                    <input name="EmailAddress" id="EmailAddress" type="email" class="form-control" placeholder="Enter Your Email Address" />
-                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-                </div>
-                <div class="form-group col-md-12">
-                    <label for="DateOfBirth">Date of Birth</label>
-                    <input name="DateOfBirth" id="DateOfBirth" type="date" class="form-control" placeholder="Date of Birth" />
-                </div>
-                <div class="form-group col-md-12">
-                    <label for="Tickets">How many tickets do have?</label>
-                    <input name="Tickets" id="Tickets" type="number" class="form-control" />
-                </div>
-                <div class="form-group col-md-12">
-                    <p>Do you have any DUIs?</p>
-                    <div class="custom-control custom-radio">
-                        <input type="radio" id="customRadio1" name="DUI" class="custom-control-input" value="true">
-                        <label class="custom-control-label" for="customRadio1">Yes</label>
-                    </div>
-                    <div class="custom-control custom-radio">
-                        <input type="radio" id="customRadio2" name="DUI" class="custom-control-input" value="false">
-                        <label class="custom-control-label" for="customRadio2">No</label>
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-group">
+                        <label for="FirstName">First Name</label>
+                        <input name="FirstName" id="FirstName" type="text" required class="form-control col-12" placeholder="Enter Your First Name" />
                     </div>
                 </div>
-                <div class="form-group col-md-12">
-                    <p>Would you like full comprehensive coverage?</p>
-                    <div class="custom-control custom-radio">
-                        <input type="radio" id="customRadio3" name="fullCoverage" class="custom-control-input" value="true">
-                        <label class="custom-control-label" for="customRadio3">Yes</label>
-                    </div>
-                    <div class="custom-control custom-radio">
-                        <input type="radio" id="customRadio4" name="fullCoverage" class="custom-control-input" value="false">
-                        <label class="custom-control-label" for="customRadio4">No</label>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-group">
+                        <label for="LastName">Last Name</label>
+                        <input name="LastName" id="LastName" type="text" required class="form-control col-12" placeholder="Enter Your Last Name" />
                     </div>
                 </div>
-                <div>
-                    <h5 class="m-3 mt-5">Vehicle Information</h5>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-group">
+                        <label for="EmailAddress">Email Address</label>
+                        <input name="EmailAddress" id="EmailAddress" type="email" required class="form-control col-12" placeholder="Enter Your Email Address" />
+                        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                    </div>
                 </div>
-                <div class="form-group col-md-12">
-                    <label for="Year">What year is your vehicle?</label>
-                    <input name="Year" id="Year" type="text" class="form-control" placeholder="yyyy" />
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-group">
+                        <label for="DateOfBirth">Date of Birth</label>
+                        <input name="DateOfBirth" id="DateOfBirth" type="date" required class="form-control col-12" placeholder="Date of Birth" />
+                    </div>
                 </div>
-                <div class="form-group col-md-12">
-                    <label for="Make">What make (brand) is your vehicle?</label>
-                    <input name="Make" id="Make" type="text" class="form-control" placeholder="Ford, Chevrolet, Toyota" />
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-group">
+                        <label for="Tickets">How many tickets do have?</label>
+                        <input name="Tickets" id="Tickets" type="number" required class="form-control col-12" />
+                    </div>
                 </div>
-                <div class="form-group col-md-12">
-                    <label for="Model">What model is your vehicle?</label>
-                    <input name="Model" id="Model" type="text" class="form-control" placeholder="Focus, Impala, Tacoma" />
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-group">
+                        <p>Do you have any DUIs?</p>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="customRadio1" name="DUI" required class="custom-control-input" value="true">
+                            <label class="custom-control-label" for="customRadio1">Yes</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="customRadio2" name="DUI" required class="custom-control-input" value="false">
+                            <label class="custom-control-label" for="customRadio2">No</label>
+                        </div>
+                    </div>
                 </div>
-                <div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-group">
+                        <p>Would you like full comprehensive coverage?</p>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="customRadio3" name="fullCoverage" required class="custom-control-input" value="true">
+                            <label class="custom-control-label" for="customRadio3">Yes</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="customRadio4" name="fullCoverage" required class="custom-control-input" value="false">
+                            <label class="custom-control-label" for="customRadio4">No</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <h5 class="m-3">Vehicle Information</h5>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-group">
+                        <label for="Year">What year is your vehicle?</label>
+                        <input name="Year" id="Year" type="text" required class="form-control col-12" placeholder="yyyy" />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-group">
+                        <label for="Make">What make (brand) is your vehicle?</label>
+                        <input name="Make" id="Make" type="text" required class="form-control col-12" placeholder="Ford, Chevrolet, Toyota" />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-group">
+                        <label for="Model">What model is your vehicle?</label>
+                        <input name="Model" id="Model" type="text" required class="form-control col-12" placeholder="Focus, Impala, Tacoma" />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                <button type="submit" class="btn btn-primary m-3">Submit</button>
                 </div>
             </div>
         }
+        </div>
     </div>
-</div>

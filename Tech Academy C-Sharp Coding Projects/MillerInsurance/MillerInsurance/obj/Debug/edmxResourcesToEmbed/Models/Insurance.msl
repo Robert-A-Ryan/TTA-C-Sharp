@@ -4,25 +4,26 @@
     <EntitySetMapping Name="Automobiles">
       <EntityTypeMapping TypeName="AutoInsurancedBModel.Automobile">
         <MappingFragment StoreEntitySet="Automobiles">
-          <ScalarProperty Name="AutoId" ColumnName="AutoId" />
-          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
-          <ScalarProperty Name="Year" ColumnName="Year" />
-          <ScalarProperty Name="Make" ColumnName="Make" />
           <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Make" ColumnName="Make" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+          <ScalarProperty Name="AutoId" ColumnName="AutoId" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="Customers">
       <EntityTypeMapping TypeName="AutoInsurancedBModel.Customer">
         <MappingFragment StoreEntitySet="Customers">
-          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
-          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
-          <ScalarProperty Name="LastName" ColumnName="LastName" />
-          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
-          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
-          <ScalarProperty Name="Tickets" ColumnName="Tickets" />
-          <ScalarProperty Name="DUI" ColumnName="DUI" />
+          <ScalarProperty Name="Rate" ColumnName="Rate" />
           <ScalarProperty Name="FullCoverage" ColumnName="FullCoverage" />
+          <ScalarProperty Name="DUI" ColumnName="DUI" />
+          <ScalarProperty Name="Tickets" ColumnName="Tickets" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

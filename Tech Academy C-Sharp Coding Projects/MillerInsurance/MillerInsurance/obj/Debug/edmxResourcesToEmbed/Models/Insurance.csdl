@@ -1,48 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Schema Namespace="AutoInsurancedBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="AutoInsurancedBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Automobiles" EntityType="AutoInsurancedBModel.Automobile" />
+    <EntitySet Name="Customers" EntityType="AutoInsurancedBModel.Customer" />
+    <AssociationSet Name="FK_Automobiles_Customers" Association="AutoInsurancedBModel.FK_Automobiles_Customers">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="Automobile" EntitySet="Automobiles" />
+    </AssociationSet>
+  </EntityContainer>
   <EntityType Name="Automobile">
     <Key>
       <PropertyRef Name="AutoId" />
     </Key>
     <Property Name="AutoId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="CustomerId" Type="Int32" Nullable="false" />
-    <Property Name="Year" Type="Int32" Nullable="false" />
-    <Property Name="Make" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
-    <Property Name="Model" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
-    <NavigationProperty Name="Customer" Relationship="Self.FK_Automobiles_Customers" FromRole="Automobiles" ToRole="Customers" />
+    <Property Name="Year" Type="Int32" />
+    <Property Name="Make" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="Model" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Customer" Relationship="AutoInsurancedBModel.FK_Automobiles_Customers" FromRole="Automobile" ToRole="Customer" />
   </EntityType>
   <EntityType Name="Customer">
     <Key>
       <PropertyRef Name="CustomerId" />
     </Key>
     <Property Name="CustomerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
-    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
-    <Property Name="EmailAddress" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
-    <Property Name="DateOfBirth" Type="DateTime" Nullable="false" Precision="0" />
-    <Property Name="Tickets" Type="Int32" Nullable="false" />
-    <Property Name="DUI" Type="Boolean" Nullable="false" />
-    <Property Name="FullCoverage" Type="Boolean" Nullable="false" />
-    <NavigationProperty Name="Automobiles" Relationship="Self.FK_Automobiles_Customers" FromRole="Customers" ToRole="Automobiles" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="EmailAddress" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="DateOfBirth" Type="DateTime" Precision="0" />
+    <Property Name="Tickets" Type="Int32" />
+    <Property Name="DUI" Type="Boolean" />
+    <Property Name="FullCoverage" Type="Boolean" />
+    <Property Name="Rate" Type="Decimal" Precision="18" Scale="2" />
+    <NavigationProperty Name="Automobiles" Relationship="AutoInsurancedBModel.FK_Automobiles_Customers" FromRole="Customer" ToRole="Automobile" />
   </EntityType>
   <Association Name="FK_Automobiles_Customers">
-    <End Role="Customers" Type="Self.Customer" Multiplicity="1" />
-    <End Role="Automobiles" Type="Self.Automobile" Multiplicity="*" />
+    <End Type="AutoInsurancedBModel.Customer" Role="Customer" Multiplicity="1" />
+    <End Type="AutoInsurancedBModel.Automobile" Role="Automobile" Multiplicity="*" />
     <ReferentialConstraint>
-      <Principal Role="Customers">
+      <Principal Role="Customer">
         <PropertyRef Name="CustomerId" />
       </Principal>
-      <Dependent Role="Automobiles">
+      <Dependent Role="Automobile">
         <PropertyRef Name="CustomerId" />
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <EntityContainer Name="AutoInsurancedBEntities" annotation:LazyLoadingEnabled="true">
-    <EntitySet Name="Automobiles" EntityType="Self.Automobile" />
-    <EntitySet Name="Customers" EntityType="Self.Customer" />
-    <AssociationSet Name="FK_Automobiles_Customers" Association="Self.FK_Automobiles_Customers">
-      <End Role="Customers" EntitySet="Customers" />
-      <End Role="Automobiles" EntitySet="Automobiles" />
-    </AssociationSet>
-  </EntityContainer>
 </Schema>

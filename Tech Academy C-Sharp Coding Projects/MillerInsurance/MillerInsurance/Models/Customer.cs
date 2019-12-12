@@ -24,10 +24,11 @@ namespace MillerInsurance.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string EmailAddress { get; set; }
-        public System.DateTime DateOfBirth { get; set; }
-        public int Tickets { get; set; }
-        public bool DUI { get; set; }
-        public bool FullCoverage { get; set; }
+        public Nullable<System.DateTime> DateOfBirth { get; set; }
+        public Nullable<int> Tickets { get; set; }
+        public Nullable<bool> DUI { get; set; }
+        public Nullable<bool> FullCoverage { get; set; }
+        public Nullable<decimal> Rate { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Automobile> Automobiles { get; set; }

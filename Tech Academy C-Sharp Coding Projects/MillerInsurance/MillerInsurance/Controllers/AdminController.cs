@@ -23,7 +23,8 @@ namespace MillerInsurance.Controllers
                     {
                         FirstName = customer.FirstName,
                         LastName = customer.LastName,
-                        EmailAddress = customer.EmailAddress
+                        EmailAddress = customer.EmailAddress,
+                        Rate = customer.Rate ?? -1
                     };
                     customerVms.Add(customerVm);
                 }

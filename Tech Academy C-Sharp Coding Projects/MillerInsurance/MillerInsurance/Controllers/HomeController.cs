@@ -39,54 +39,37 @@ namespace MillerInsurance.Controllers
             {
                 using (AutoInsurancedBEntities db = new AutoInsurancedBEntities())
                 {
-                    var customer = new Customer();
-                    var automobile = new Automobile();
-                    customer.FirstName = firstName;
-                    customer.LastName = lastName;
-                    customer.EmailAddress = emailAddress;
-                    customer.DateOfBirth = Convert.ToDateTime(dateOfBirth);
-                    customer.Tickets = tickets;
-                    customer.DUI = dui;
-                    customer.FullCoverage = fullCoverage;
-                    automobile.Year = year;
-                    automobile.Make = make;
-                    automobile.Model = model;
-
-                    db.Customers.Add(customer);
-                    db.Automobiles.Add(automobile);
-                    db.SaveChanges();
-
-                    double rate = 50d;
+                    decimal rate = 50m;
                     int age = CalculateAge(dateOfBirth);
 
                     if (age < 25 && age > 18)
                     {
-                        rate += 25d;
+                        rate += 25m;
                     }
                     else if (age < 18)
                     {
-                        rate += 100d;
+                        rate += 100m;
                     }
                     else if (age > 100)
                     {
-                        rate += 25d;
+                        rate += 25m;
                     }
 
                     if (year < 2000)
                     {
-                        rate += 25d;
+                        rate += 25m;
                     }
                     else if (year > 2015)
                     {
-                        rate += 25d;
+                        rate += 25m;
                     }
 
                     if (make == "Porsche")
                     {
-                        rate += 25d;
+                        rate += 25m;
                         if (model == "911 Carrera")
                         {
-                            rate += 25d;
+                            rate += 25m;
                         }
                     }
 
@@ -97,19 +80,36 @@ namespace MillerInsurance.Controllers
 
                     if (dui)
                     {
-                        rate += rate * .25d;
+                        rate += rate * .25m;
                     }
 
                     if (fullCoverage)
                     {
-                        _ = rate * 1.5d;
+                        rate = rate * 1.5m;
                     }
+
+                    var customer = new Customer();
+                    var automobile = new Automobile();
+                    customer.FirstName = firstName;
+                    customer.LastName = lastName;
+                    customer.EmailAddress = emailAddress;
+                    customer.DateOfBirth = Convert.ToDateTime(dateOfBirth);
+                    customer.Tickets = tickets;
+                    customer.DUI = dui;
+                    customer.FullCoverage = fullCoverage;
+                    customer.Rate = rate;
+                    automobile.Year = year;
+                    automobile.Make = make;
+                    automobile.Model = model;
+
+                    db.Customers.Add(customer);
+                    db.Automobiles.Add(automobile);
+                    db.SaveChanges();
+                    
                     ViewBag.customer = customer;
                     ViewBag.automobile = automobile;
 
-                    return View(rate);
-
-
+                    return View();
                 }
             }
 
